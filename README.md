@@ -1,6 +1,6 @@
 # STARK BY HAND
 
-This is a Sage script for the [Risc0](@risc0) tutorial [STARK by Hand](https://dev.risczero.com/proof-system/stark-by-hand), written by the great [Paul](@pdg744).
+This is a Sage script for the [Risc0](https://github.com/risc0) tutorial [STARK by Hand](https://dev.risczero.com/proof-system/stark-by-hand), written by the great [Paul](https://github.com/pdg744).
 
 ## Run
 
